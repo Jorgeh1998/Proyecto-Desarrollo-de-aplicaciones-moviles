@@ -52,8 +52,6 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
 </p>
 
 
-# kajsdksajndksand
-
 ## Link Planificador (Trello): https://trello.com/b/FLZRguda/proyecto-aplicaciones-moviles
 
 
