@@ -53,6 +53,12 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
 
 <img width="1024" height="671" alt="image" src="https://github.com/user-attachments/assets/f47b496d-9481-4a40-80b2-902977a49458" />
 
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/f47b496d-9481-4a40-80b2-902977a49458" width = "400" alt = "image"> 
+</p>
+
+
+
 
 ## Link Planificador (Trello): https://trello.com/b/FLZRguda/proyecto-aplicaciones-moviles
 
