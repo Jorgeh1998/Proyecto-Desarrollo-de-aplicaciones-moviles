@@ -8,6 +8,7 @@
 ### Jorge Cañas
 ### Priscila Bobadilla
 
+
 # Introducción:
 
 A medida que se ha hecho este proyecto, se ha realizado distintas lluvias de ideas de como seria el programa
