@@ -55,4 +55,10 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
 ## Link Planificador (Trello): https://trello.com/b/FLZRguda/proyecto-aplicaciones-moviles
 
 
+# Funcionalidades Implementadas en la nueva versión:
 
+-Selección Emocional Detallada: La pantalla principal da la bienvenida con un diseño inmersivo, un título decorado y un fondo evocador, invitando al usuario a conectar con su estado de ánimo. Permite elegir entre cuatro emociones clave (Alegre, Triste, Ansioso, Enojado) a través de botones visuales y atractivos.
+
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/0577c67d-3b86-4b33-9683-cc46fa88e551" width = "300" alt = "image"> 
+</p>
