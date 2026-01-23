@@ -57,8 +57,39 @@ red social y finalmente poder rotar de versiculo en versiculo con un solo botón
 
 # Funcionalidades Implementadas en la nueva versión:
 
--Selección Emocional Detallada: La pantalla principal da la bienvenida con un diseño inmersivo, un título decorado y un fondo evocador, invitando al usuario a conectar con su estado de ánimo. Permite elegir entre cuatro emociones clave (Alegre, Triste, Ansioso, Enojado) a través de botones visuales y atractivos.
+- Selección Emocional Detallada: La pantalla principal da la bienvenida con un diseño inmersivo, un título decorado y un fondo evocador, invitando al usuario a conectar con su estado de ánimo. Permite elegir entre cuatro emociones clave (Alegre, Triste, Ansioso, Enojado) a través de botones visuales y atractivos.
 
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/0577c67d-3b86-4b33-9683-cc46fa88e551" width = "300" alt = "image"> 
 </p>
+
+- Experiencia de Reflexión Íntima: A diferencia de una lista larga que puede resultar abrumadora, al elegir una emoción, la app presenta un solo versículo a la vez. Este enfoque permite al usuario enfocarse y meditar en el mensaje, pudiendo navegar fácilmente a través de la colección con botones intuitivos de "siguiente" y "anterior".
+
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/0474750b-c9d3-45ff-acce-7285fc092019" width = "300" alt = "image"> 
+</p>
+
+- Biblioteca Masivamente Ampliada: Atendiendo a la necesidad de una experiencia excelente, la base de datos de referencias ha sido expandida masivamente, ofreciendo una vasta y profunda colección de versículos para cada emoción, lo que garantiza que el contenido se sienta siempre nuevo.
+
+<p align = "center">
+<img width="500" height="425" alt="image" src="https://github.com/user-attachments/assets/115dbdf1-7239-4e2a-baa6-2af6a2e896ae" />
+</p>
+
+- Descubrimiento Siempre Nuevo: Para asegurar que cada sesión sea única, la aplicación baraja aleatoriamente la colección de versículos cada vez que el usuario elige una emoción. Esto garantiza que nunca empezará con el mismo verso dos veces seguidas, fomentando el descubrimiento continuo.
+
+- Gestión Completa de Versículos Guardados: El usuario puede guardar sus versículos favoritos con un solo toque, con una respuesta visual inmediata (un icono que cambia y un mensaje). La pantalla de "Mis Versículos" permite no solo revisarlos, sino también eliminar toda la colección de forma segura a través de un diálogo de confirmación, dándole control total sobre sus datos.
+
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/b7a3eeff-a3b3-4790-89d2-552a0ac553bb" width = "300" alt = "image"> 
+</p>
+
+- Diseño Inmersivo y Atmosférico: Cada sección de la aplicación tiene su propia identidad visual gracias a fondos de pantalla personalizados. El uso de capas semitransparentes y tarjetas translúcidas crea una atmósfera de calma y asegura una legibilidad perfecta, logrando un equilibrio profesional entre belleza y funcionalidad.
+
+<p align ="center">
+  <img src="https://github.com/user-attachments/assets/4c8ed61f-ae07-42df-bcaf-db5e9d502c81" width="500">
+
+  <img src="https://github.com/user-attachments/assets/22be30cf-68d9-4e07-bd5b-17b71d50b1fd" width="500">
+ 
+  <img src="https://github.com/user-attachments/assets/17af0e83-cb95-4b06-a85e-7ce9e30af3d6" width="500">
+</p>
+
